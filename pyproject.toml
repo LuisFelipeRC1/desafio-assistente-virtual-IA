@@ -1,0 +1,10 @@
+[project]
+name = "finia-assistente-virtual"
+version = "1.0.0"
+description = "Assistente financeiro educacional com IA, Python e UX responsável"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
