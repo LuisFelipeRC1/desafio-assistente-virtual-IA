@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pix_seguranca",
+    "title": "Segurança no PIX",
+    "keywords": ["pix", "golpe", "transferência", "transferencia", "chave", "devolução", "devolucao"],
+    "answer": "Antes de confirmar um PIX, confira nome e instituição do destinatário. Desconfie de urgência, promessa de prêmio ou pedido para transferir a uma conta diferente. Em caso de fraude, comunique imediatamente sua instituição pelos canais oficiais e registre todas as evidências."
+  },
+  {
+    "id": "senha_e_tokens",
+    "title": "Proteção de senha e códigos",
+    "keywords": ["senha", "token", "código", "codigo", "autenticação", "autenticacao", "mensagem", "link"],
+    "answer": "Não compartilhe senha, token, código de autenticação ou CVV. Instituições financeiras não devem pedir esses dados completos por mensagem. Evite links recebidos por canais desconhecidos e acesse o aplicativo digitando o endereço oficial ou usando o app instalado."
+  },
+  {
+    "id": "cartao_credito",
+    "title": "Cartão de crédito",
+    "keywords": ["cartão", "cartao", "fatura", "limite", "parcelamento", "rotativo"],
+    "answer": "O cartão permite concentrar compras em uma fatura. Pagar apenas parte da fatura pode gerar crédito rotativo e juros elevados. Compare o custo efetivo total, acompanhe o limite e priorize o pagamento integral quando isso for possível dentro do seu orçamento."
+  },
+  {
+    "id": "emprestimos",
+    "title": "Empréstimos e financiamentos",
+    "keywords": ["empréstimo", "emprestimo", "financiamento", "juros", "parcela", "cet"],
+    "answer": "Ao comparar empréstimos, observe o Custo Efetivo Total, e não apenas a taxa anunciada. O CET reúne juros, tarifas, seguros e outros encargos. Verifique também prazo, valor total pago e impacto das parcelas no orçamento."
+  },
+  {
+    "id": "investimentos",
+    "title": "Investimentos",
+    "keywords": ["investimento", "investir", "rendimento", "rentabilidade", "risco", "reserva"],
+    "answer": "Investimentos possuem diferentes combinações de risco, liquidez e expectativa de retorno. Antes de investir, defina objetivo, prazo e necessidade de resgate. Rentabilidade passada não garante resultado futuro, e uma reserva de emergência deve priorizar segurança e liquidez."
+  },
+  {
+    "id": "renegociacao",
+    "title": "Renegociação de dívidas",
+    "keywords": ["dívida", "divida", "renegociar", "atraso", "negociação", "negociacao"],
+    "answer": "Para renegociar, liste as dívidas, taxas e parcelas, preserve despesas essenciais e compare propostas pelo valor total. Confirme boletos e canais antes de pagar. Uma parcela menor pode aumentar o prazo e o custo final."
+  },
+  {
+    "id": "open_finance",
+    "title": "Open Finance",
+    "keywords": ["open finance", "compartilhamento", "consentimento", "dados"],
+    "answer": "No Open Finance, o compartilhamento depende do seu consentimento e ocorre por prazo e finalidade definidos. A autorização deve ser feita no ambiente oficial das instituições participantes. Você pode consultar ou revogar o consentimento pelos canais disponibilizados."
+  },
+  {
+    "id": "privacidade",
+    "title": "Privacidade de dados",
+    "keywords": ["privacidade", "lgpd", "dados pessoais", "cpf", "vazamento"],
+    "answer": "Compartilhe apenas os dados necessários e confirme a identidade de quem solicita informações. Em chats, nunca envie senha, token, CVV ou número completo do cartão. Em caso de vazamento ou uso indevido, altere credenciais e procure os canais oficiais envolvidos."
+  }
+]
