@@ -1,0 +1,21 @@
+# Ambientes e dependências
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Dados locais gerados em execução
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
